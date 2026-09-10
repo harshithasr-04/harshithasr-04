@@ -1,16 +1,75 @@
-## Hi there 👋
+Hi, I'm Harshitha S R 👋
 
-<!--
-**harshithasr-04/harshithasr-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Student | Java Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student interested in **Java, Full-Stack Development, and Software Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building web applications, learning new technologies, and improving my problem-solving skills through coding.
+
+---
+
+🛠️ Tech Stack
+
+**Languages**
+- Java
+- Python
+- SQL
+
+**Frontend**
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+**Backend**
+- Java
+- Spring Boot
+- REST APIs
+
+**Database**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Eclipse
+
+
+**Technologies:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+
+ Java Practice & DSA
+
+A collection of Java programs covering programming fundamentals, problem solving, and data structures & algorithms.
+
+**Technologies:** Java
+
+---
+
+ 🎓 Education
+
+**Bachelor of Engineering – Computer Science and Engineering**  
+BGS Institute of Technology
+
+---
+
+💼 Career Interests
+
+I'm interested in opportunities related to:
+
+- Java Development
+- Full-Stack Development
+- Backend Development
+- Software Engineering
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/harshitha-sr-421749341
+- GitHub: `harshithasr-04`
+
+---
+
+⭐ Thanks for visiting my profile!
